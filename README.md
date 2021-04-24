@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabborges :)
 - 👀 I’m interested in sports.
-- 🌱 I’m currently learning html, css... shit.. it's not easy lol
+- 🌱 I’m currently learning html, css... 
 - 📫 E-mail me... gabrielaborges_13@hotmail.com
 
 <!---
